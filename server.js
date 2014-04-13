@@ -1,1 +1,0 @@
-var GhostServer = require('./index');
